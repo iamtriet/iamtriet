@@ -1,4 +1,4 @@
-![image](https://github.com/iamtriet/iamtriet/assets/87794935/b2413de6-9d72-4a69-80b5-fe64edc87a09)<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm Minh Triet</h1>
 <p align="center">
   <h3 align="center">A passionate ML Engineer from Vietnam</h3>
@@ -38,6 +38,7 @@
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
   <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
+  <img src="![image](https://github.com/iamtriet/iamtriet/assets/87794935/b2413de6-9d72-4a69-80b5-fe64edc87a09)" />
 </p>
 
 ## Activities:
