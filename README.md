@@ -1,7 +1,7 @@
 ![image](https://github.com/iamtriet/iamtriet/assets/87794935/b2413de6-9d72-4a69-80b5-fe64edc87a09)<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm Minh Triet</h1>
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+  <h3 align="center">A passionate ML Engineer from Vietnam</h3>
 </p>
 
 
