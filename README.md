@@ -44,5 +44,4 @@
 ## Activities:
 
 ## Certificates:
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="84f3330d-ba7d-47a8-bef6-2b01ca491ef2" data-share-badge-host="https://www.credly.com"></div>
-  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<img src="https://img.icons8.com/fluent/48/000000/github.png"/>
