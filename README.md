@@ -44,6 +44,6 @@
 ## Activities:
 
 ## Certificates:
-<img src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png"/>
-<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~HRB74P6ZH3X9/CERTIFICATE_LANDING_PAGE~HRB74P6ZH3X9.jpeg" width="200" height="100"/>
-<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ZA9D9YHBXGXX/CERTIFICATE_LANDING_PAGE~ZA9D9YHBXGXX.jpeg" width="200" height="100"/>
+<img src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" width="100" height="100"/>
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~HRB74P6ZH3X9/CERTIFICATE_LANDING_PAGE~HRB74P6ZH3X9.jpeg" width="600" height="450"/>
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ZA9D9YHBXGXX/CERTIFICATE_LANDING_PAGE~ZA9D9YHBXGXX.jpeg" width="600" height="450"/>
