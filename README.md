@@ -44,6 +44,7 @@
 ## Activities:
 
 ## Certificates:
-<img src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" width="100" height="100"/>
-<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~HRB74P6ZH3X9/CERTIFICATE_LANDING_PAGE~HRB74P6ZH3X9.jpeg" width="600" height="450"/>
-<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ZA9D9YHBXGXX/CERTIFICATE_LANDING_PAGE~ZA9D9YHBXGXX.jpeg" width="600" height="450"/>
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) SQL for Data Science]([https://coursera.org/share/e7c760ccadc01c344e2b906dc6026037])
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) IBM Supervised Machine Learning: Regression([https://coursera.org/share/7258008e635cfb8a2df75777bba1a98a])
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Microsoft Azure Data Engineering]([(https://coursera.org/share/666acb8f8d3bd09d35048ded8aae0550)])
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Exploratory Data Analysis for Machine Learning]([https://coursera.org/share/fe6640ee9839faeffac6aa35e9816464])
