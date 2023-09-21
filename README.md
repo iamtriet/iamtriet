@@ -28,7 +28,7 @@
   </a>
 </p>
 
-## ![image](https://github.com/iamtriet/iamtriet/assets/87794935/50cf113c-1bae-497c-a631-62cd9d868103) Skills:
+## ![image]() Skills:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
   <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
@@ -55,7 +55,7 @@
   </tr>
 </table>
 
-## ![image](https://github.com/iamtriet/iamtriet/assets/87794935/966cd980-8019-4845-b3a3-8fdb5059c748) Certificates:
+## ![image](https://img.icons8.com/?size=100&id=116708&format=png) Certificates:
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
 - [![DATACAMP](https://img.shields.io/badge/-DATACAMP-green) Data Scientist Associate Certificate](https://www.datacamp.com/certificate/DSA0018894722473)
