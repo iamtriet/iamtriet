@@ -28,7 +28,7 @@
   </a>
 </p>
 
-## <img src="https://icons8.com/icon/120522/development-skill" width="50" height="50"> Skills:
+## <img src="https://github.com/iamtriet/iamtriet/assets/87794935/16f52f75-ad0c-4734-bf2c-6e817d605eff" width="50" height="50"> Skills:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
   <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
