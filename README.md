@@ -28,7 +28,7 @@
   </a>
 </p>
 
-## Skills:
+## <a target="_blank" href="https://icons8.com/icon/V82gwIqAn8NY/analyzing-skill">Skill</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> Skills:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
   <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
