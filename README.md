@@ -28,7 +28,7 @@
   </a>
 </p>
 
-## ![image]() Skills:
+## <img src="https://icons8.com/icon/120522/development-skill" width="50" height="50"> Skills:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
   <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
@@ -40,7 +40,7 @@
   <img src="![image](https://github.com/iamtriet/iamtriet/assets/87794935/b2413de6-9d72-4a69-80b5-fe64edc87a09)" />
 </p>
 
-## <img src="https://img.icons8.com/?size=100&id=116708&format=png" width="50" height="50" top="10"> Activities:
+## <img src="https://icons8.com/icon/118557/github" width="50" height="50"> Activities:
 <table style="width:100%;">
   <tr>
     <td>
