@@ -46,7 +46,6 @@
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtriet&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="iamtriet" width="100%"/>
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
     </td>
     <td>
       <p align="center"> 
@@ -57,6 +56,8 @@
 </table>
 
 ## Certificates:
+<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
+
 - [![DATACAMP](https://img.shields.io/badge/-DATACAMP-green) Data Scientist Associate Certificate](https://www.datacamp.com/certificate/DSA0018894722473)
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-blue) SQL for Data Science](https://coursera.org/share/e7c760ccadc01c344e2b906dc6026037)
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-blue) IBM Supervised Machine Learning: Regression](https://coursera.org/share/7258008e635cfb8a2df75777bba1a98a)
