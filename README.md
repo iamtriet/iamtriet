@@ -28,7 +28,7 @@
   </a>
 </p>
 
-## <a target="_blank" href="https://icons8.com/icon/V82gwIqAn8NY/analyzing-skill">Skill</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> Skills:
+## ![image](https://github.com/iamtriet/iamtriet/assets/87794935/50cf113c-1bae-497c-a631-62cd9d868103) Skills:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
   <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
@@ -40,7 +40,7 @@
   <img src="![image](https://github.com/iamtriet/iamtriet/assets/87794935/b2413de6-9d72-4a69-80b5-fe64edc87a09)" />
 </p>
 
-## Activities:
+## ![image](https://github.com/iamtriet/iamtriet/assets/87794935/638bf4df-2230-4c11-88e0-ac2b348bb6bb) Activities:
 <table style="width:100%;">
   <tr>
     <td>
@@ -55,7 +55,7 @@
   </tr>
 </table>
 
-## Certificates:
+## ![image](https://github.com/iamtriet/iamtriet/assets/87794935/966cd980-8019-4845-b3a3-8fdb5059c748) Certificates:
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
 - [![DATACAMP](https://img.shields.io/badge/-DATACAMP-green) Data Scientist Associate Certificate](https://www.datacamp.com/certificate/DSA0018894722473)
