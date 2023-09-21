@@ -4,7 +4,7 @@
   <h3 align="center">A passionate AI/ML Engineer from Vietnam</h3>
 </p>
 
-
+- ✍ I'm a student at Ho Chi Minh University of Technology and Education.
 
 <br />
 
