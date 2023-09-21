@@ -55,7 +55,7 @@
   </tr>
 </table>
 
-## <img src="https://img.icons8.com/?size=100&id=116708&format=png" width="50" height="50" style="margin-top: 10px;> Certificates:
+## <img src="https://img.icons8.com/?size=100&id=116708&format=png" style="margin-top: 10px;" width="50" height="50"> Certificates:
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
 - [![DATACAMP](https://img.shields.io/badge/-DATACAMP-green) Data Scientist Associate Certificate](https://www.datacamp.com/certificate/DSA0018894722473)
