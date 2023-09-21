@@ -8,7 +8,7 @@
 -
 <br />
 
-## 📫 How to reach me:
+## <img src="https://github.com/iamtriet/iamtriet/assets/87794935/9cf4adb2-6cdd-452d-aaf0-b0892d4865c4" width="50" height="50"> How to reach me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iamtriet15531/" target="_blank">
