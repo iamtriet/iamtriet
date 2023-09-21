@@ -40,7 +40,7 @@
   <img src="![image](https://github.com/iamtriet/iamtriet/assets/87794935/b2413de6-9d72-4a69-80b5-fe64edc87a09)" />
 </p>
 
-## <img src="https://icons8.com/icon/118557/github" width="50" height="50"> Activities:
+## <img src="https://github.com/iamtriet/iamtriet/assets/87794935/d1ab312b-b80a-4135-9531-d3ab62a58014" width="50" height="50"> Activities:
 <table style="width:100%;">
   <tr>
     <td>
