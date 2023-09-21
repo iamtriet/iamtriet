@@ -44,7 +44,7 @@
 ## Activities:
 
 ## Certificates:
-- [![DATACAMP](https://img.shields.io/badge/-DATACAMP-red) Data Scientist Associate Certificate](https://www.datacamp.com/certificate/DSA0018894722473)
+- [![DATACAMP](https://img.shields.io/badge/-DATACAMP-rose) Data Scientist Associate Certificate](https://www.datacamp.com/certificate/DSA0018894722473)
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-blue) SQL for Data Science](https://coursera.org/share/e7c760ccadc01c344e2b906dc6026037)
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-blue) IBM Supervised Machine Learning: Regression](https://coursera.org/share/7258008e635cfb8a2df75777bba1a98a)
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-blue) Microsoft Azure Data Engineering](https://coursera.org/share/666acb8f8d3bd09d35048ded8aae0550)
