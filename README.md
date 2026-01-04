@@ -42,11 +42,12 @@
 ## <img src="https://img.icons8.com/?size=100&id=116708&format=png" style="margin-top: 50px;" width="50" height="50"> Achievements: 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
-- [![doi](https://img.shields.io/badge/-DATACAMP-green) International Journal of Mechanical Engineering and Robotics Research] (https://doi.org/10.18178/ijmerr.14.3.282-298) Project: Development of a Formation Algorithm based on Alternating Node Changes, doi: https://doi.org/10.18178/ijmerr.14.3.282-298, 2024.
-- Project: Real-time Feature Recognition of Cantaloupe Flowers and Buds in Greenhouse.
-- Project: Using Reinforcement Learning to Control Cyborg Cockroach in Bio-inspired Swarm Robotics.
-- Project: Probabilistic 3D Pose Estimation of Floral Organs for Robotic Pollination.
-- Project: NOCTILENS — Nocturnal intelligent sensing for swiftlet nests.
+- [![doi] International Journal of Mechanical Engineering and Robotics Research (IJMERR)] Modeling of Cyborg-Cockroach Swarm Using Agent-Based Simulation, doi: https://doi.org/10.18178/ijmerr.14.3.282-298, 2024.
+- [![doi] International Journal of Mechanical Engineering and Robotics Research (IJMERR)] Formation Control of Mobile Robots Using a Beacon-Based Algorithm with Alternating Node Activation, doi: https://doi.org/10.18178/ijmerr.14.2.212-228, 2024.
+- [![doi] IEEE Access] Behavior Modeling and Bio-Hybrid Systems: Using Reinforcement Learning to Enhance Cyborg Cockroach in Bio-Inspired Swarm Robotics, doi: https://doi.org/10.1109/ACCESS.2025.3569285, 2025.
+- [![doi] International Conference on Machine Vision (ICMV), 2025] Real-time Feature Recognition of Cantaloupe Flowers and Buds in Greenhouse based on Deep Learning for Pollination Robot , Paper ID:
+P007, Accepted.
+- [In process] Project: NOCTILENS — Nocturnal intelligent sensing for swiftlet nests.
 
 ## <img src="https://img.icons8.com/?size=100&id=116708&format=png" style="margin-top: 50px;" width="50" height="50"> Certificates: 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
