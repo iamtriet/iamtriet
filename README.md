@@ -4,8 +4,8 @@
   <h3 align="center">A passionate AI/ML Engineer from Vietnam</h3>
 </p>
 
-- ✍ I'm a student at Ho Chi Minh University of Technology and Education. 
--
+- ✍ I'm a student at Ho Chi Minh University of Technology and Education.
+- Currently, I am a full-time researcher at OpenLab of Institude of Intelligent and Interactive Technology.
 <br />
 
 ## <img src="https://github.com/iamtriet/iamtriet/assets/87794935/9cf4adb2-6cdd-452d-aaf0-b0892d4865c4" width="50" height="50"> How to reach me:
@@ -38,6 +38,15 @@
   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
   <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
 </p>
+
+## <img src="https://img.icons8.com/?size=100&id=116708&format=png" style="margin-top: 50px;" width="50" height="50"> Achievements: 
+<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
+
+- [![doi](https://img.shields.io/badge/-DATACAMP-green) International Journal of Mechanical Engineering and Robotics Research] (https://doi.org/10.18178/ijmerr.14.3.282-298) Project: Development of a Formation Algorithm based on Alternating Node Changes, doi: https://doi.org/10.18178/ijmerr.14.3.282-298, 2024.
+- Project: Real-time Feature Recognition of Cantaloupe Flowers and Buds in Greenhouse.
+- Project: Using Reinforcement Learning to Control Cyborg Cockroach in Bio-inspired Swarm Robotics.
+- Project: Probabilistic 3D Pose Estimation of Floral Organs for Robotic Pollination.
+- Project: NOCTILENS — Nocturnal intelligent sensing for swiftlet nests.
 
 ## <img src="https://img.icons8.com/?size=100&id=116708&format=png" style="margin-top: 50px;" width="50" height="50"> Certificates: 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
