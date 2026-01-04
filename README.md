@@ -39,21 +39,6 @@
   <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
 </p>
 
-## <img src="https://github.com/iamtriet/iamtriet/assets/87794935/d1ab312b-b80a-4135-9531-d3ab62a58014" width="50" height="50"> Activities:
-<table style="width: 100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtriet&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20sử%20dụng" alt="iamtriet" />
-      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel. app/api?username=iamtriet&show_icons=true&locale=en&theme=tokyonight" alt="iamtriet" /></p>
-    </td>
-    <td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
 ## <img src="https://img.icons8.com/?size=100&id=116708&format=png" style="margin-top: 50px;" width="50" height="50"> Certificates: 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
