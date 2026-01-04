@@ -40,7 +40,6 @@
 </p>
 
 ## <img src="https://img.icons8.com/?size=100&id=116708&format=png" style="margin-top: 50px;" width="50" height="50"> Achievements: 
-<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
 - [![doi] International Journal of Mechanical Engineering and Robotics Research (IJMERR)] Modeling of Cyborg-Cockroach Swarm Using Agent-Based Simulation, doi: https://doi.org/10.18178/ijmerr.14.3.282-298, 2024.
 - [![doi] International Journal of Mechanical Engineering and Robotics Research (IJMERR)] Formation Control of Mobile Robots Using a Beacon-Based Algorithm with Alternating Node Activation, doi: https://doi.org/10.18178/ijmerr.14.2.212-228, 2024.
