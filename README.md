@@ -46,7 +46,7 @@
 - [IEEE Access] Behavior Modeling and Bio-Hybrid Systems: Using Reinforcement Learning to Enhance Cyborg Cockroach in Bio-Inspired Swarm Robotics, doi: https://doi.org/10.1109/ACCESS.2025.3569285, 2025.
 - [International Conference on Machine Vision (ICMV), 2025] Real-time Feature Recognition of Cantaloupe Flowers and Buds in Greenhouse based on Deep Learning for Pollination Robot , Paper ID:
 P007, Accepted.
-- [In process] Project: SN-LIO: Entropy-driven LiDAR-Inertial SLAM and quality-aware 3D memory for autonomous swiftlet’s nest harvesting in dark and texture-poor environments.
+- [In process] SN-LIO: Entropy-driven LiDAR-Inertial SLAM and quality-aware 3D memory for autonomous swiftlet’s nest harvesting in dark and texture-poor environments.
 
 ## <img src="https://img.icons8.com/?size=100&id=116708&format=png" style="margin-top: 50px;" width="50" height="50"> Certificates: 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
